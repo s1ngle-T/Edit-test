@@ -1,0 +1,9 @@
+﻿  Reading Qt configuration (D:\Install\QT\5.9\msvc2017_64\bin\qmake.exe)
+  moc QtGuiEdit.h
+  main.cpp
+  QtGuiEdit.cpp
+E:\QT\QT_Edit\QtGuiEdit\QtGuiEdit\QtGuiEdit.cpp(355,8): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPCVOID”
+E:\QT\QT_Edit\QtGuiEdit\QtGuiEdit\QtGuiEdit.cpp(401,12): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPCVOID”
+E:\QT\QT_Edit\QtGuiEdit\QtGuiEdit\QtGuiEdit.cpp(410,12): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+  moc_QtGuiEdit.cpp
+  QtGuiEdit.vcxproj -> E:\QT\QT_Edit\QtGuiEdit\x64\Debug\QtGuiEdit.exe
